@@ -88,9 +88,9 @@ La console H2 vous permet d'inspecter les tables `users` et `tickets` directemen
 *   **URL d'accès :** [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 *   **Configuration de connexion :**
     *   **Driver Class :** `org.h2.Driver`
-    *   **JDBC URL :** `jdbc:h2:mem:itsupportdb`
-    *   **User Name :** `sa`
-    *   **Password :** `password`
+    *   **JDBC URL :** `######`
+    *   **User Name :** `######`
+    *   **Password :** `######`
 
 ---
 
